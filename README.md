@@ -15,13 +15,6 @@
   My overarching goal is to continue driving innovation and making a meaningful impact in the ever-evolving landscape of technology.
 </p>
 
-<p align="center">
-  <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.14ae53b8d112e02b22d0f2bff7f4f7a8?rik=uarqANaeKB5%2fdg&riu=http%3a%2f%2fi.imgur.com%2fYr32yur.gif&ehk=kzLZtjbPT80GtQ%2bGrH5dL%2fwmblkB2dpPg8lqELfiN3Q%3d&risl=1&pid=ImgRaw&r=0">
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sia-nyx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sia-nyx" alt="GitHub Trophies"></a>
