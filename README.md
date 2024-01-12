@@ -15,7 +15,7 @@
   My overarching goal is to continue driving innovation and making a meaningful impact in the ever-evolving landscape of technology.
 </p>
 
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/art-animation-trip-xTiTnwtxXU2SbrTsmA)
+<imag align="right" alt="Coding" width="400" scr="https://giphy.com/gifs/art-animation-trip-xTiTnwtxXU2SbrTsmA">
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sia-nyx" alt="GitHub Trophies"></a>
