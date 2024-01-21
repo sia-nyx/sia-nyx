@@ -40,14 +40,6 @@
 
 - ⚡ **Fun Fact:** While my days are spent unraveling the mysteries of deep learning and crafting innovative solutions in the world of electronics, by night, I transform into a rhythmic virtuoso on the dance floor! From the intricate steps of traditional dance to the spontaneous beats of contemporary styles, I find solace in the rhythm and expressiveness of dance. Just as I love the beats of music I find great interest in sketching, I am a harmonious blend of logic and creativity. So, whether it's decoding complex algorithms or moving to the enchanting tunes, I bring a unique balance of technical prowess and artistic flair to every facet of my life.
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Profile</title>
-</head>
 
 <body>
     <h3 align="left">Connect with me:</h3>
