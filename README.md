@@ -7,15 +7,22 @@
 
 <h3 align="center"> Armed with a Bachelor of Technology degree from Amrita Vishwa Vidyapeetham and I am on a relentless pursuit of excellence.I am a passionate tech enthusiast dedicated to pushing the boundaries of cutting-edge research. With a background in Deep Learning, I've led groundbreaking projects that showcase my expertise in advanced CNNs and problem-solving within the realm of robotics. As a short term Cybersecurity Researcher, I've honed my project management and leadership skills by navigating the intricacies of Capture the Flag challenges. Venturing into Micro-Electro-Mechanical Systems (MEMS), I've seamlessly integrated Ansys software to design and simulate innovative solutions. Beyond my academic pursuits, I am a versatile programmer proficient in languages like Python, C, C++, and C#, applying my theoretical knowledge to practical applications ranging from automatic door opening systems to client-server architectures. My overarching goal is to continue driving innovation and making a meaningful impact in the ever-evolving landscape of technology.</h3>
 
-<imag align="right" alt="Coding" width="400" scr="https://giphy.com/gifs/art-animation-trip-xTiTnwtxXU2SbrTsmA">
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sia-nyx" alt="GitHub Trophies"></a>
+<p align="center">
+    <img height="150px" width="1100px" src="https://github-widgetbox.vercel.app/api/profile?username=Sid-WC121&theme=dark&data=followers,repositories,stars">
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/swathi anil" target="blank"><img src="https://img.shields.io/twitter/follow/swathi anil?logo=twitter&style=for-the-badge" alt="Twitter Follow"></a>
+<p align="center">
+    <table align="center">
+        <tr>
+            <td align="center">
+                <a href="https://github.com/ryo-ma/github-profile-trophy">
+                    <img src="https://github-profile-trophy.vercel.app/?username=sia-nyx" alt="GitHub Trophies">
+                </a>
+            </td>
+        </tr>
+    </table>
 </p>
+
 
 <h2 align="center">About Me</h2>
 
