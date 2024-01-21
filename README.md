@@ -1,40 +1,7 @@
 <p align="center">
   <img width="800" src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif" alt="GitHub Profile Banner">
 </p>
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        @keyframes moveText {
-            0% {
-                transform: translateX(0);
-            }
-            50% {
-                transform: translateX(20px);
-            }
-            100% {
-                transform: translateX(0);
-            }
-        }
-
-  .animated-text {
-            display: inline-block;
-            animation: moveText 2s infinite; /* Adjust the animation duration as needed */
-        }
-    </style>
-    <title>Animated Text</title>
-</head>
-
-<body>
-    <h1>Welcome to the realm of <span class="animated-text">boundless innovation!</span></h1>
-</body>
-
-</html>
-
+<h1 align="center">Welcome to the realm of boundless innovation! 
 
 <h3 align="center">I am Swathi Anil, a dynamic technologist with a passion for crafting the future through the fusion of electronics, computer science, and deep learning.</h3>
 
