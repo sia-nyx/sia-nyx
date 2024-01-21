@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif" alt="GitHub Profile Banner">
+  <img width="800" src="https://i1.wp.com/www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif?strip=all">
 </p>
 <h1 align="center">Welcome to the realm of boundless innovation! 
 
