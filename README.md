@@ -21,6 +21,9 @@
             justify-content: center;
             flex-wrap: wrap;
         }
+        .languages-tools div {
+            margin: 10px;
+        }
         .languages-tools img {
             margin: 5px;
         }
@@ -32,9 +35,9 @@
     </p>
     <h1 align="center">Welcome to the realm of boundless innovation!</h1> 
     <h3 align="center">I am Swathi Anil, a dynamic technologist with a passion for crafting the future through the fusion of electronics, computer science, and deep learning.</h3>
-
+    <
     <h3 align="center">Armed with a Bachelor of Technology degree from Amrita Vishwa Vidyapeetham, I am on a relentless pursuit of excellence. I am a passionate tech enthusiast dedicated to pushing the boundaries of cutting-edge research. With a background in Deep Learning, I've led groundbreaking projects that showcase my expertise in advanced CNNs and problem-solving within the realm of robotics. As a short-term Cybersecurity Researcher, I've honed my project management and leadership skills by navigating the intricacies of Capture the Flag challenges. Venturing into Micro-Electro-Mechanical Systems (MEMS), I've seamlessly integrated Ansys software to design and simulate innovative solutions. Beyond my academic pursuits, I am a versatile programmer proficient in languages like Python, C, C++, and C#, applying my theoretical knowledge to practical applications ranging from automatic door opening systems to client-server architectures. My overarching goal is to continue driving innovation and making a meaningful impact in the ever-evolving landscape of technology.</h3>
-
+<
     <p align="center">
         <table align="center">
             <tr>
@@ -47,6 +50,7 @@
         </table>
     </p>
 
+<
     <h2 align="center">🧰 Languages and Tools</h2>
     <div class="languages-tools">
         <div>
@@ -100,31 +104,20 @@
             <kbd>Other</kbd>
             <br>
             <img title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" /></a>
-            <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" /></a>
-            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" /></a>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" /></a>
-            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60" /></a>
-            <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60" /></a>
-            <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60" /></a>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" /></a>
-            <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60" /></a>
-            <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" /></a>
-            <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="60" height="60" /></a>
         </div>
     </div>
     <br>
-
+<
     <p align="center">
         <a href="https://github.com/sia-nyx">
             <img src="https://komarev.com/ghpvc/?username=sia-nyx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
         </a>
     </p>
-
+<
     <h3 align="center">🌟 "Exploring the frontiers of technology with unwavering curiosity, boundless creativity, and unrelenting dedication." 🌟</h3>
 
     <br>
-
+<
     <h2 align="center">💡 Projects</h2>
     <p align="center">
         <a href="https://github.com/sia-nyx/project1">
@@ -134,22 +127,22 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=sia-nyx&repo=project2" alt="Project 2">
         </a>
     </p>
-
+<
     <br>
-
+<
     <h2 align="center">📊 GitHub Stats</h2>
     <p align="center">
         <a href="https://github.com/sia-nyx">
             <img src="https://github-readme-stats.vercel.app/api?username=sia-nyx&show_icons=true&locale=en" alt="GitHub Stats">
         </a>
     </p>
-
+<
     <p align="center">
         <a href="https://github.com/sia-nyx">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=sia-nyx" alt="GitHub Streak">
         </a>
     </p>
-
+<
     <p align="center">
         <a href="https://github.com/sia-nyx">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sia-nyx&show_icons=true&locale=en&layout=compact" alt="Top Languages">
